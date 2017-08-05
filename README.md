@@ -1,2 +1,2 @@
 # hellow-word
-this repository is for pactise 
+this repository is for pactise only
