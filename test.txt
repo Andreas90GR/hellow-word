@@ -1,3 +1,5 @@
 this is my first text file
 and this is my first change to the file 
 I learn git.. Its awesome
+It's really great to use git 
+I love it
